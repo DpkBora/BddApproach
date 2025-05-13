@@ -30,6 +30,7 @@ public class Test {
 		
 	}
 	@And("i get less pay")
+	//Hello
 	public void igetlesspay()
 	{
 		System.out.println("the user clicks the login button");
@@ -40,6 +41,7 @@ public class Test {
 	public void myparentsaresatisfied()
 	{
 	System.out.println("my parents are satisfied");
+	//Test
 	
 	}
 	
